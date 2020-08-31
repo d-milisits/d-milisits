@@ -1,5 +1,4 @@
 # Hello 👋, Dan here
-### UI/UX Designer & Fullstack Developer
 ![UI/UX Designer & Fullstack Developer](https://i.imgur.com/mZuEVl6.png)
 
 I am a fullstack bootcamp graduate with a Bachelor's in Finance & strong passion for creating. With a natural eye for design, frontend development and knack for solving complex backend problems, I am currently seeking my next endeavor in the field of software development. 
