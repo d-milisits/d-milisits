@@ -1,5 +1,5 @@
 # Hello 👋, Dan here
-![UI/UX Designer & Fullstack Developer](https://i.imgur.com/mZuEVl6.png)
+![Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner](https://user-images.githubusercontent.com/59677367/211112768-b240e9b8-549d-43fc-9356-a40d55c68e46.png)
 
  _I am a fullstack bootcamp graduate with a Bachelor's in Finance & strong passion for creating. With a natural eye for design, frontend development and knack for solving complex backend problems, I am currently seeking my next endeavor in the field of software development._ 
 
